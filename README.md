@@ -11,7 +11,6 @@ Dubbo is a high-performance, java based RPC framework open-sourced by Alibaba. P
 We are now collecting dubbo user info in order to help us to improve dubbo better, pls. kindly help us by providing yours on [issue#1012: Wanted: who's using dubbo](https://github.com/alibaba/dubbo/issues/1012), thanks :)
 
 ## Links
-
 * [Side projects](http://github.com/dubbo)
 * [Gitter channel](https://gitter.im/alibaba/dubbo)
 * [Mailing list](https://groups.google.com/forum/#!forum/dubbo)
